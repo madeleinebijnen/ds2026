@@ -1,0 +1,5 @@
+pandas
+numby
+matplotlib
+ipykernel
+
