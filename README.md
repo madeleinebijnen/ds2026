@@ -113,6 +113,7 @@ Put your student ID and the repository name (for example
 - **Can't sign in to Copilot?** Check you are signed in to GitHub in VS Code
   (Accounts icon, bottom-left). If it still fails, tell us in class or on the
   forum.
+  Edited on GitHub for exercise 5.
 
 ## Troubleshooting
 
