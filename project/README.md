@@ -44,3 +44,7 @@ For example:
   interpretation of odds ratios; fixing a package that would not install in my
   `.venv`
 - **Not used for:** writing the analysis code or the text of this README
+## Data
+Inside Airbnb, Amsterdam: listings-bestand, snapshot van [datum uit de tabel op de site].
+Te downloaden via https://insideairbnb.com/get-the-data → Amsterdam.
+Zet het bestand als `listings.csv` in `project/data/`.
